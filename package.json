@@ -1,0 +1,28 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tommy-ish/todo-api#readme",
+  "bugs": {
+    "url": "https://github.com/tommy-ish/todo-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommy-ish/todo-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3"
+  }
+}
